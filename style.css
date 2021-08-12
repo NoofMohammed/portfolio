@@ -1,0 +1,199 @@
+.main {
+  display: flex;
+  /* gap: 10%; */
+}
+.navigation {
+  background-color: #595260;
+  width: 20%;
+  height: 100%;
+  justify-items: center;
+  text-align: center;
+  position: fixed;
+  margin-top: -8px;
+  margin-left: -8px;
+}
+.icon {
+  display: flex;
+  gap: 2%;
+}
+svg.bi.bi-envelope-fill {
+  margin-top: 17px;
+}
+svg.bi.bi-telephone-fill {
+  margin-top: 18px;
+}
+.details {
+  margin-left: 25%;
+  /* background-image: url("https://us.123rf.com/450wm/tirachard/tirachard1802/tirachard180200064/95656773-creative-flat-lay-photo-of-workspace-desk-top-view-office-desk-with-laptop-blank-empty-notebooks-and.jpg?ver=6"); */
+}
+.home {
+  cursor: pointer;
+  padding: 16% 2%;  
+  
+}
+.about {
+  margin-top: 21%;
+  font-size: 20px;
+  margin-bottom: 15%;
+  padding: 16% 2%;
+}
+
+a:hover,
+h4:hover {
+  cursor: pointer;
+  color: cadetblue;
+}
+
+img.icon {
+  width: 10%;
+}
+.images {
+  display: flex;
+  gap: 3%;
+}
+.scroll-element {
+  scroll-margin: 50px 0 0 50px;
+}
+.personal {
+  margin-bottom: 13%;
+  margin-top: 13%;
+  padding: 16% 2%;
+
+}
+.interests {
+  margin-bottom: 13%;
+  margin-top: 13%;
+  padding: 16% 2%;
+}
+.projects {
+  margin-bottom: 13%;
+  margin-top: 13%;
+  padding: 16% 2%;
+  /* display: flex; */
+
+}
+img.app {
+  width: 73%;
+}
+h2 {
+  font-family: "Bona Nova", sans-serif;
+  color: #595260;
+}
+.navigation-div {
+  color: antiquewhite;
+  margin-top: 23%;
+}
+.job {
+  color: snow;
+}
+.noof {
+  color: snow;
+  font-family: emoji;
+}
+p {
+  font-size: 17px;
+  color: #548CA8;
+  width: 81%;
+}
+ul {
+  font-size: 21px;
+  color: #548CA8;
+}
+h5 {
+  font-size: 18px;
+  color: #548C71;
+}
+.meraki {
+  display: flex;
+  gap: 5%;
+}
+
+h3.camp {
+    color: #214252;
+    font-size: 20px;
+    margin-top: 24px;
+}
+.education {
+    margin-bottom: 9%;
+    padding: 16% 2%;
+}
+img {
+  border-radius: 10px;
+  width: 11%;
+  height: 0%;
+  margin-top: 3%;
+}
+svg.svg {
+  color: #595260;
+}
+button.button\.btn {
+  background-color: snow;
+
+  color: black;
+  border: solid 2px;
+  border-radius: 5px;
+  border-color: #595260;
+  
+}
+p.phone {
+  margin-top: 0%;
+}
+.other-icon {
+  margin-top: 3%;
+  display: flex;
+  gap: 10%;
+}
+.job {
+  color: snow;
+  margin-top: -7%;
+  font-size: 16px;
+}
+p.description {
+
+    margin-top: -3%;
+    font-size: 14px;
+}
+.technical {
+    padding: 16% 2%;}
+img.trello {
+    margin-top: 6%;
+}
+img.my-img {
+    width: 62%;
+    height: 28%;
+}
+p.paragraph {
+    font-size: 22px;
+    font-family: cursive;
+}
+a.email-noof {
+    color: #548CA8;
+}
+p.para-about {
+    color: #548CA8;
+}
+.my-project {
+    display: flex;
+}
+img.app-occasions {
+    width: 67%;
+    height: 72%;
+}
+img.app-athkar {
+    width: 100%;
+    height: 28%;
+}
+img.app-Vaccination {
+    width: 94%;
+    height: 27%;
+}
+h5.app {
+    margin-left: 10%;
+}
+.app-2 {
+    margin-right: 6%;
+}
+.icon-githup {
+    display: flex;
+    gap: 4%;
+}
