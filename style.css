@@ -110,7 +110,7 @@ h5 {
 
 h3.camp {
     color: #214252;
-    font-size: 20px;
+    font-size: 15px;
     margin-top: 24px;
 }
 .education {
@@ -118,8 +118,8 @@ h3.camp {
     padding: 16% 2%;
 }
 img {
-  border-radius: 10px;
-  width: 11%;
+  border-radius: 7px;
+    width: 5%;
   height: 0%;
   margin-top: 3%;
 }
@@ -196,4 +196,34 @@ h5.app {
 .icon-githup {
     display: flex;
     gap: 4%;
+}
+
+@media all and (max-width: 600px){
+  .navigation {
+    width: 29%;
+}
+img.my-img {
+  width: 86%;
+    height: 12%;
+    margin-top: 43%;
+}
+h2.noof {
+  font-size: 18px;
+}
+h5.job {
+  margin-top: -6%;
+}
+.navigation-div {
+  margin-top: 58%;
+  font-size: 14px;
+}
+.details {
+  margin-left: 57%;
+}
+.home {
+  padding: 100% 2%;
+}
+.about {
+  padding: 98% 2%;
+}
 }
