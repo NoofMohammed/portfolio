@@ -226,4 +226,22 @@ h5.job {
 .about {
   padding: 98% 2%;
 }
+.technical {
+  padding: 106% 2%;
+}
+.personal {
+  padding: 98% 2%;
+}
+.interests {
+  padding: 113% 7%;
+}
+.projects {
+  height: 14%;
+    padding: 57% 2%;
+    margin-bottom: -92%;
+}
+.education {
+  padding: 122% 2%;
+    margin-top: 34%;
+}
 }
