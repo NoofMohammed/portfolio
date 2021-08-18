@@ -17,10 +17,10 @@
   gap: 2%;
 }
 svg.bi.bi-envelope-fill {
-  margin-top: 17px;
+  /* margin-top: 17px; */
 }
 svg.bi.bi-telephone-fill {
-  margin-top: 18px;
+  /* margin-top: 18px; */
 }
 .details {
   margin-left: 25%;
@@ -41,7 +41,7 @@ svg.bi.bi-telephone-fill {
 a:hover,
 h4:hover {
   cursor: pointer;
-  color: cadetblue;
+  color: rgb(172, 186, 187);
 }
 
 img.icon {
@@ -121,7 +121,7 @@ img {
   border-radius: 7px;
     width: 5%;
   height: 0%;
-  margin-top: 3%;
+  margin-top: 4%;
 }
 svg.svg {
   color: #595260;
@@ -173,7 +173,7 @@ p.para-about {
     color: #548CA8;
 }
 .my-project {
-    display: flex;
+    /* display: flex; */
 }
 img.app-occasions {
     width: 67%;
@@ -196,6 +196,12 @@ h5.app {
 .icon-githup {
     display: flex;
     gap: 4%;
+}
+.title-icon {
+  display: flex;
+}
+svg.bi.bi-github {
+  padding: 34px;
 }
 
 @media all and (max-width: 600px){
@@ -237,14 +243,20 @@ h5.job {
 }
 .projects {
   height: 14%;
-    padding: 57% 2%;
-    margin-bottom: -92%;
+  padding: 133% 2%;
+      margin-bottom: -92%;
 }
 .education {
-  padding: 122% 2%;
-    margin-top: 34%;
-}
+  padding: 180% 2%; }
+  
 .name-camp {
   margin-top: 4px;
 }
+img {
+  border-radius: 7px;
+  width: 5%;
+  height: 0%;
+  margin-top: 7%;
+}
+
 }
